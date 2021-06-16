@@ -1,0 +1,30 @@
+------------------------------
+323591
+Vincent Schmitt
+T
+Mechtronik
+A
+------------------------------
+324529
+Linus Torvalds
+T
+Technische Informatik
+E
+------------------------------
+354212
+Lisa Testfrau
+G
+Industrial Design
+A
+------------------------------
+123456
+Max Mustermann
+W
+Wirtschaftsrecht
+E
+------------------------------
+654321
+Test McTestmann
+G
+Geheimer Studiengang
+E
